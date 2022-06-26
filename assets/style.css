@@ -190,17 +190,19 @@ body section p {
     border: 5px solid red;
  }
 
-.image-cropper {
+#image-cropper {
+    margin-top: 2%;
     width: 100px;
     height: 100px;
-    position: relative;
+    position: absolute;
     overflow: hidden;
     border-radius: 50%;
 }
-.profile-pic {
-  display: inline;
+#profile-pic {
+  display: inline-flex;
   margin: 0 auto;
   margin-left: -25%;
   height: 100%;
   width: auto;
+  transform: rotate(-5deg);
 }
