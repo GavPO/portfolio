@@ -10,6 +10,7 @@
     font-family: var(--mainfont);
 }
 
+/* HEADER OF WEBSITE  */
 
 body header {
     font-family: Georgia, var(--mainfont);
@@ -30,6 +31,7 @@ body header h1 {
     background-color: var(--thirdc);
 }
 
+/* START OF NAV  */
 
 body header h1 nav {
     display: flex;
@@ -53,10 +55,14 @@ body header nav ul li{
     border-radius: 4px;
 }
 
+/* STYLING FOR NAV ITEMS  */
+
 .navItem {
     color: var(--secondaryc);
     text-decoration: none;
 }
+
+/* SUBTITLE FOR IMAGE  */
 
 #imgSub {
     background-color: var(--thirdc);
@@ -189,6 +195,8 @@ body section p {
 #workImages img:active {
     border: 5px solid red;
  }
+
+ /* STYLING FOR PROFILE PIC */
 
 #image-cropper {
     margin-top: 2%;
