@@ -1,6 +1,7 @@
-# <Portfolio>
+# <Portfolio> 
 
 ## Description
+https://gavpo.github.io/portfolio/
 
 This portfolio is designed to be able to showcase my projects and give a little more information about myself for future employers to look at. This project does a very good job of showing you how complex and important css can be. This project also helped me understand the box-model a little more and see kind of what I was manipulating.
 
