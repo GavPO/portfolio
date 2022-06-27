@@ -216,7 +216,7 @@ body {
     body header nav ul li{
         font-size: 22px;
     }
-
+    
     #abMeSec h2 {
         font-size: 40px;
     }
@@ -235,7 +235,13 @@ body {
 
 @media screen and (max-width: 768px) {
     body header nav ul li{
+        display: inline-flex;
         font-size: 12px;
+    }
+
+    #imgSub {
+        margin: -50px 0 0 0;
+        padding: 0;
     }
 
     #abMeSec h2{
@@ -268,7 +274,11 @@ body {
     }
 
     #contactMeSec ul li {
-        font-size: 18px;
+        font-size: 12px;
+    }
+
+    #contactMeSec h2 {
+        font-size: 40px;
     }
 
     #workImages {
